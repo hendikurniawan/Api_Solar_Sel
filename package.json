@@ -1,0 +1,22 @@
+{
+  "name": "latihannodejs",
+  "version": "1.0.0",
+  "description": "aplikasi untuk saya",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "siti karimatul lutfi",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.11",
+    "nodemon": "^2.0.1",
+    "npm-windows-upgrade": "^6.0.1"
+  }
+}
